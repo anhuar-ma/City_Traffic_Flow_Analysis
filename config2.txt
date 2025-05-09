@@ -1,0 +1,14 @@
+(
+(
+    ((verde 5) (vuelta 1) (amarillo 3) (rojo 10)) 
+    ((rojo 10) (verde 5) (vuelta 1) (amarillo 8)) 
+    ((rojo 10) (verde 5) (vuelta 1) (amarillo 9)) 
+    ((rojo 10) (verde 5) (vuelta 1) (amarillo 1)) 
+)
+(
+    (verde 10 rojo 9)
+    (verde 10 rojo 9)
+    (verde 10 rojo 9)
+    (verde 10 rojo 9)
+)
+)

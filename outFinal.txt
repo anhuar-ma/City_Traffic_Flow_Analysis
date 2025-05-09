@@ -1,0 +1,704 @@
+Información del Crucero  2
+ 
+Numero de autos que pasaron por el semaforo 1
+51
+Numero de autos que pasaron por el semaforo 2
+39
+Numero de autos que pasaron por el semaforo 3
+38
+Numero de autos que pasaron por el semaforo 4
+7
+Total de autos que pasaron por el crucero:
+135
+
+Veces de tiempo muerto en todos los semaforos:
+153
+Tiempos muertos en el semaforo 1
+151
+Tiempos muertos en el semaforo 2
+0
+Tiempos muertos en el semaforo 3
+0
+Tiempos muertos en el semaforo 4
+2
+
+Promedio del tiempo de espera en el crucero: 
+10.97442821067821
+Promedio de tiempo de espera en el semaforo 1
+10.86080808080808
+Promedio de tiempo de espera en el semaforo 2
+16.81944444444444
+Promedio de tiempo de espera en el semaforo 3
+11.78888888888889
+Promedio de tiempo de espera en el semaforo 4
+4.428571428571429
+
+Estadisticas de los cruceros analizados: 
+ 
+Cantidad de vehiculos que pasaron por los cruceros:
+Crucero 1
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 2
+Semaforos: 4
+Cantidad de vehículos:  135.0
+ 
+Crucero 3
+Semaforos: 4
+Cantidad de vehículos:  37.0
+ 
+Crucero 4
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 5
+Semaforos: 4
+Cantidad de vehículos:  134.0
+ 
+Crucero 6
+Semaforos: 4
+Cantidad de vehículos:  37.0
+ 
+Crucero 7
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 8
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 9
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 10
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 11
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 12
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 13
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 14
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 15
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 16
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 17
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 18
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 19
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 20
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 21
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 22
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 23
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 24
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 25
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 26
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 27
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 28
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 29
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 30
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 31
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 32
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 33
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 34
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 35
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 36
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 37
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 38
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 39
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 40
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 41
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 42
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 43
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 44
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 45
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 46
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 47
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 48
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 49
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 50
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 51
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 52
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 53
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 54
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 55
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 56
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 57
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 58
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 59
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 60
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 61
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 62
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 63
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 64
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 65
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 66
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 67
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 68
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 69
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 70
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 71
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 72
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 73
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 74
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 75
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 76
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 77
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 78
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 79
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 80
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 81
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 82
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 83
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 84
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 85
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 86
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 87
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 88
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 89
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 90
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 91
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 92
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 93
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 94
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 95
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 96
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 97
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 98
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 99
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+Crucero 100
+Semaforos: 5
+Cantidad de vehículos:  194.0
+ 
+ 
+Tiempo promedio de espera de un vehículo en todos los cruceros:
+22.887409811019896
+ 
+Cruceros con mayor y menor tiempo de espera:
+10% de cruceros con mayor tiempo de espera:
+Crucero 6
+Tiempo de espera: 28.0
+ 
+Crucero 3
+Tiempo de espera: 28.0
+ 
+Crucero 4
+Tiempo de espera: 23.199
+ 
+Crucero 100
+Tiempo de espera: 23.025768
+ 
+Crucero 99
+Tiempo de espera: 23.025768
+ 
+Crucero 98
+Tiempo de espera: 23.025768
+ 
+Crucero 97
+Tiempo de espera: 23.025768
+ 
+Crucero 96
+Tiempo de espera: 23.025768
+ 
+Crucero 95
+Tiempo de espera: 23.025768
+ 
+Crucero 94
+Tiempo de espera: 23.025768
+ 
+10% de cruceros con menor tiempo de espera:
+Crucero 2
+Tiempo de espera: 10.974428
+ 
+Crucero 5
+Tiempo de espera: 11.119567
+ 
+Crucero 1
+Tiempo de espera: 23.025768
+ 
+Crucero 7
+Tiempo de espera: 23.025768
+ 
+Crucero 8
+Tiempo de espera: 23.025768
+ 
+Crucero 9
+Tiempo de espera: 23.025768
+ 
+Crucero 10
+Tiempo de espera: 23.025768
+ 
+Crucero 11
+Tiempo de espera: 23.025768
+ 
+Crucero 12
+Tiempo de espera: 23.025768
+ 
+Crucero 13
+Tiempo de espera: 23.025768
+ 
+ 
+Semaforos con mayor tiempo muerto:
+10% de semaforos con mayor tiempo de muerto:
+Crucero 2
+Semaforo: 1
+Tiempo muerto: 151.0 
+ 
+Crucero 5
+Semaforo: 1
+Tiempo muerto: 150.0 
+ 
+Crucero 100
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 99
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 98
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 97
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 96
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 95
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 94
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 93
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 92
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 91
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 90
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 89
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 88
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 87
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 86
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 85
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 84
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 83
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 82
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 81
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 80
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 79
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 78
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 77
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 76
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 75
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 74
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 73
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 72
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 71
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 70
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 69
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 68
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 67
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 66
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 65
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 64
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 63
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 62
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 61
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 60
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 59
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 58
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 57
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 56
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 55
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 
+Crucero 54
+Semaforo: 4
+Tiempo muerto: 5.0 
+ 

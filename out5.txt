@@ -1,0 +1,32 @@
+Numero de autos que pasaron por el semaforo 1
+50
+Numero de autos que pasaron por el semaforo 2
+39
+Numero de autos que pasaron por el semaforo 3
+38
+Numero de autos que pasaron por el semaforo 4
+7
+Total de autos que pasaron por el crucero:
+134
+
+Veces de tiempo muerto en todos los semaforos:
+152
+Tiempos muertos en el semaforo 1
+150
+Tiempos muertos en el semaforo 2
+0
+Tiempos muertos en el semaforo 3
+0
+Tiempos muertos en el semaforo 4
+2
+
+Promedio del tiempo de espera en el crucero: 
+11.1195670995671
+Promedio de tiempo de espera en el semaforo 1
+11.44136363636364
+Promedio de tiempo de espera en el semaforo 2
+16.81944444444444
+Promedio de tiempo de espera en el semaforo 3
+11.78888888888889
+Promedio de tiempo de espera en el semaforo 4
+4.428571428571429

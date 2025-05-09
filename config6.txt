@@ -1,0 +1,14 @@
+(
+(
+    ((vuelta 20) (verde 30) (amarillo 3) (rojo 53))
+    ((vuelta 20) (verde 30) (amarillo 3) (rojo 53))
+    ((rojo 53) (vuelta 20) (verde 30) (amarillo 3))
+    ((rojo 53) (vuelta 20) (verde 30) (amarillo 3))
+)
+(
+    ((verde 10) (rojo 9))
+    ((verde 10) (rojo 9))
+    ((verde 10) (rojo 9))
+    ((verde 10) (rojo 9))
+)
+)
