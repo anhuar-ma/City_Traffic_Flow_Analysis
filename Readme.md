@@ -1,4 +1,4 @@
-# Traffic Light Intersection Analysis(2024)
+# City Traffic Flow Analysis
 
 ## Overview
 This project analyzes traffic intersections to evaluate their efficiency. It simulates and measures key performance metrics such as:
